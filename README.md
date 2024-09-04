@@ -62,7 +62,7 @@ You can customize the project by modifying the dataset, experimenting with diffe
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the [MIT License](LICENSE.txt). 
 
 ## Acknowledgments
 
